@@ -1,0 +1,1 @@
+Para iniciar o projeto, basta rodar o comando npm install no NodeJs e em seguida gulp
